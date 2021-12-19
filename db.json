@@ -11,6 +11,798 @@
       "lng": "37.316006840949",
       "title": "Театр2",
       "iconUrl": "https://static.tildacdn.com/tild3837-6161-4632-a463-663165646536/5279112-256_1.png"
-    }
+    },
+    {
+"lat": "27.246489",
+"lng": "33.847119",
+"title": "Sunny Days Hotels & Resorts",
+"iconUrl": "https://static.tildacdn.com/tild6531-3434-4065-b462-386536626261/media.jpg"
+},
+{
+"lat": "36.639729",
+"lng": "31.739988",
+"title": "Aska Buse Resort Hotel",
+"iconUrl": "https://static.tildacdn.com/tild6162-3531-4362-b264-363866326237/media.jpg"
+},
+{
+"lat": "36.655087",
+"lng": "30.556756",
+"title": "Göynük – Kemer Hotel LA MER",
+"iconUrl": "https://static.tildacdn.com/tild6533-6133-4233-a236-323232393865/media.jpg"
+},
+{
+"lat": "36.655087",
+"lng": "30.556756",
+"title": "Göynük – Kemer Hotel LA MER",
+"iconUrl": "https://static.tildacdn.com/tild6139-3630-4437-a532-343065306531/media.jpg"
+},
+{
+"lat": "25.106173",
+"lng": "55.111370",
+"title": "W Dubai - The Palm",
+"iconUrl": "https://static.tildacdn.com/tild3835-3232-4136-a432-306138383862/media.jpg"
+},
+{
+"lat": "36.6142108",
+"lng": "30.5565609",
+"title": "Palmet Beach Resort",
+"iconUrl": "https://static.tildacdn.com/tild3662-6639-4039-b864-353061613762/media.jpg"
+},
+{
+"lat": "55.74615211551428",
+"lng": "37.58023656185765",
+"title": "AZIMUT Hotel Smolenskaya Moscow",
+"iconUrl": "https://static.tildacdn.com/tild3239-3436-4232-b562-326431373337/media.jpg"
+},
+{
+"lat": "36.54770422722338",
+"lng": "29.121750144190553",
+"title": "Durak Hotel restaurant",
+"iconUrl": "https://static.tildacdn.com/tild3635-3737-4235-a630-346332643835/media.jpg"
+},
+{
+"lat": "36.64028155093632",
+"lng": "31.739366117686906",
+"title": "Aska Bayview Resort",
+"iconUrl": "https://static.tildacdn.com/tild3431-6539-4330-b138-646337336435/media.jpg"
+},
+{
+"lat": "42.64264701092826",
+"lng": "18.104888135312812",
+"title": "Hilton Imperial Dubrovnik",
+"iconUrl": "https://static.tildacdn.com/tild3365-3861-4264-b964-313663636438/media.jpg"
+},
+{
+"lat": "48.33350290717707",
+"lng": "24.584976604070715",
+"title": "Chalet Residence",
+"iconUrl": "https://static.tildacdn.com/tild3730-3865-4263-b362-356561313465/media.jpg"
+},
+{
+"lat": "43.66477907159907",
+"lng": "40.31480152059784",
+"title": "Green Flow Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3530-6631-4939-a463-356464333163/media.jpg"
+},
+{
+"lat": "36.62308333790588",
+"lng": "31.764588494030836",
+"title": "Rubi Platinum Spa Resort & Suites",
+"iconUrl": "https://static.tildacdn.com/tild6535-6532-4565-b865-353230363630/media.jpg"
+},
+{
+"lat": "36.846180968605296",
+"lng": "31.087919485205756",
+"title": "Limak Atlantis De Luxe Hotel & Resort",
+"iconUrl": "https://static.tildacdn.com/tild3632-3166-4633-b265-633665313630/media.jpg"
+},
+{
+"lat": "36.662670983804425",
+"lng": "31.654051208296234",
+"title": "Q Premium Resort Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3033-3137-4238-a165-353262363262/media.jpg"
+},
+{
+"lat": "47.4228501916116",
+"lng": "40.06788120480696",
+"title": "Гостиница Новочеркасск",
+"iconUrl": "https://static.tildacdn.com/tild3439-3864-4437-b830-613533393832/media.jpg"
+},
+{
+"lat": "36.857039286547206",
+"lng": "30.91349544056261",
+"title": "Asteria Kremlin Palace 1",
+"iconUrl": "https://static.tildacdn.com/tild3566-3431-4566-b935-636537353131/CGUNXjdgtpK.jpg"
+},
+{
+"lat": "55.85340675921837",
+"lng": "37.03994072036137",
+"title": "Дом Отдыха «Снегири» Управления Делами Президента Российской Федерации",
+"iconUrl": "https://static.tildacdn.com/tild3834-3133-4136-b033-313831313431/media.jpg"
+},
+{
+"lat": "36.63232533578731",
+"lng": "31.75508085760448",
+"title": "Annabella Diamond Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3533-6161-4433-b961-396161643739/media.jpg"
+},
+{
+"lat": "36.72700179372979",
+"lng": "30.560870859891473",
+"title": "Akka Antedon Hotel - Kemer",
+"iconUrl": "https://static.tildacdn.com/tild6664-6235-4539-a335-356236376536/media.jpg"
+},
+{
+"lat": "43.66884843819986",
+"lng": "40.26193558812781",
+"title": "Отель Панорама",
+"iconUrl": "https://static.tildacdn.com/tild6537-3035-4539-a631-326564646335/media.jpg"
+},
+{
+"lat": "58.01556160166063",
+"lng": "56.23622117626284",
+"title": "АМАКС Премьер отель",
+"iconUrl": "https://static.tildacdn.com/tild3961-3638-4861-b038-633839643431/media.jpg"
+},
+{
+"lat": "55.74545446986498",
+"lng": "37.58091029372925",
+"title": "Golden Ring Hotel",
+"iconUrl": "https://static.tildacdn.com/tild6565-6634-4962-b238-343535633636/media.jpg"
+},
+{
+"lat": "21.092959606202914",
+"lng": "-86.76843271340594",
+"title": "Ritz Carlton, Cancun, Mexico",
+"iconUrl": "https://static.tildacdn.com/tild6433-6464-4435-b436-393130633862/media.jpg"
+},
+{
+"lat": "43.57059951123237",
+"lng": "39.731088586288536",
+"title": "Гранд Отель Жемчужина",
+"iconUrl": "https://static.tildacdn.com/tild6437-6163-4135-b937-303432666566/media.jpg"
+},
+{
+"lat": "44.50285922795497",
+"lng": "34.190120987625214",
+"title": "Ялта-Интурист",
+"iconUrl": "https://static.tildacdn.com/tild6633-6163-4434-a236-653166373938/media.jpg"
+},
+{
+"lat": "33.98395686074582",
+"lng": "-118.4507332683412",
+"title": "The Ritz-Carlton, Marina del Rey",
+"iconUrl": "https://static.tildacdn.com/tild6366-3635-4237-a137-633561386438/media.jpg"
+},
+{
+"lat": "27.90497822602394",
+"lng": "34.33038374155914",
+"title": "Stella Di Mare Beach Hotel & Spa",
+"iconUrl": "https://static.tildacdn.com/tild3631-6264-4438-b430-653566636263/media.jpg"
+},
+{
+"lat": "25.38000264140275",
+"lng": "34.71710084582454",
+"title": "Concorde Moreen Beach Resort & Spa Marsa Alam",
+"iconUrl": "https://static.tildacdn.com/tild3933-3834-4831-a339-393264323366/media.jpg"
+},
+{
+"lat": "22.535500936060398",
+"lng": "-78.35345698084156",
+"title": "Melia Cayo Coco, Cuba",
+"iconUrl": "https://static.tildacdn.com/tild3565-6436-4862-a266-343238663366/media.jpg"
+},
+{
+"lat": "36.848697756664855",
+"lng": "31.070446236045335",
+"title": "Maxx Royal Belek Golf Resort",
+"iconUrl": "https://static.tildacdn.com/tild3439-6133-4732-a138-623836643637/media.jpg"
+},
+{
+"lat": "36.83980925822112",
+"lng": "31.117401624594887",
+"title": "Xanadu Resort Hotel - High Class",
+"iconUrl": "https://static.tildacdn.com/tild3761-3133-4539-a531-326133656439/media.jpg"
+},
+{
+"lat": "56.812476962921835",
+"lng": "31.56766754406419",
+"title": "Эко - парк "Времена года"",
+"iconUrl": "https://static.tildacdn.com/tild3663-6466-4564-a132-643233333537/media.jpg"
+},
+{
+"lat": "42.386653931743176",
+"lng": "18.664011288664884",
+"title": "The Chedi Luštica Bay - a GHM hotel",
+"iconUrl": "https://static.tildacdn.com/tild3438-3036-4233-b161-393563363034/media.jpg"
+},
+{
+"lat": "53.0952647943141",
+"lng": "91.41936474748564",
+"title": "Гостиница Енисей в Саяногорске",
+"iconUrl": "https://static.tildacdn.com/tild6130-6231-4534-a465-343330373763/media.jpg"
+},
+{
+"lat": "35.02243605529707",
+"lng": "34.050508081288505",
+"title": "Evalena Beach Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3135-3330-4235-b365-613831366431/media.jpg"
+},
+{
+"lat": "30.086111535894332",
+"lng": "31.331479365026773",
+"title": "Baron hotel Heliopolis",
+"iconUrl": "https://static.tildacdn.com/tild6466-6663-4636-b737-386339396364/media.jpg"
+},
+{
+"lat": "27.907496739073295",
+"lng": "34.326824597199135",
+"title": "Helnan Marina Sharm Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3436-3936-4336-b339-333435386266/media.jpg"
+},
+{
+"lat": "37.55437413320053",
+"lng": "127.11140517743097",
+"title": "Vista Walkerhill Seoul 비스타 워커힐 서울",
+"iconUrl": "https://static.tildacdn.com/tild3536-3834-4932-a631-643138613539/media.jpg"
+},
+{
+"lat": "27.246017132206738",
+"lng": "33.84428089469391",
+"title": "Sunny Days Hotels & Resorts",
+"iconUrl": "https://static.tildacdn.com/tild3038-3839-4732-a265-313932343366/media.jpg"
+},
+{
+"lat": "59.92497306345269",
+"lng": "30.38725365468862",
+"title": "Hotel Moscow",
+"iconUrl": "https://static.tildacdn.com/tild3035-3864-4530-b730-323136396339/media.jpg"
+},
+{
+"lat": "-23.013422816439675",
+"lng": "-43.29819826102622",
+"title": "ibis Rio de Janeiro Barra Da Tijuca",
+"iconUrl": "https://static.tildacdn.com/tild3363-6265-4333-b937-623032663730/media.jpg"
+},
+{
+"lat": "33.58926611504883",
+"lng": "11.079441997295756",
+"title": "Eden Star",
+"iconUrl": "https://static.tildacdn.com/tild6232-6633-4566-b436-623765383733/media.jpg"
+},
+{
+"lat": "56.812343914586336",
+"lng": "31.567125846040422",
+"title": "ЭКО-Парк "Времена Года"",
+"iconUrl": "https://static.tildacdn.com/tild3363-3334-4563-b333-386330633635/media.jpg"
+},
+{
+"lat": "37.87823724741935",
+"lng": "27.265367274841974",
+"title": "KoruMar Hotel De Luxe",
+"iconUrl": "https://static.tildacdn.com/tild3832-3064-4638-b837-623565656534/media.jpg"
+},
+{
+"lat": "25.422762366040498",
+"lng": "55.442115170430824",
+"title": "Kempinski Hotel Ajman",
+"iconUrl": "https://static.tildacdn.com/tild3233-3339-4234-b434-646332646139/media.jpg"
+},
+{
+"lat": "43.57726491103992",
+"lng": "39.72434584893862",
+"title": "HOTEL PULLMAN SOCHI CENTRE",
+"iconUrl": "https://static.tildacdn.com/tild3564-6362-4435-b939-666237653365/media.jpg"
+},
+{
+"lat": "22.540936793075378",
+"lng": "-78.42755760040612",
+"title": "Cayo Coco, Jardines Del Rey, Cuba",
+"iconUrl": "https://static.tildacdn.com/tild3962-6139-4332-a632-643633316232/media.jpg"
+},
+{
+"lat": "44.5765789566659",
+"lng": "38.073375748257874",
+"title": "Alean Family Resort & Spa Biarritz Геленджик",
+"iconUrl": "https://static.tildacdn.com/tild3763-3633-4832-b462-326337306532/media.jpg"
+},
+{
+"lat": "43.403074932997384",
+"lng": "39.97847904398764",
+"title": "Сочи Парк Отель",
+"iconUrl": "https://static.tildacdn.com/tild3531-6133-4835-a136-363538376230/media.jpg"
+},
+{
+"lat": "47.17123857185259",
+"lng": "13.106173337451319",
+"title": "Hotel Norica",
+"iconUrl": "https://static.tildacdn.com/tild3066-6264-4734-a338-653539373665/media.jpg"
+},
+{
+"lat": "44.489115256171054",
+"lng": "34.16174405147018",
+"title": "Oreanda Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3664-6562-4861-b630-323336336337/media.jpg"
+},
+{
+"lat": "36.55642277584272",
+"lng": "30.56810365772052",
+"title": "Armas Labada Beach Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3037-3232-4230-b530-623039366137/media.jpg"
+},
+{
+"lat": "36.61346667431279",
+"lng": "30.55811607626088",
+"title": "Seven Seas Gravel Select",
+"iconUrl": "https://static.tildacdn.com/tild3738-3864-4435-b661-646430323337/media.jpg"
+},
+{
+"lat": "44.538446567142024",
+"lng": "34.27345578537718",
+"title": "Гурзуф "Веселый Хотей"",
+"iconUrl": "https://static.tildacdn.com/tild6666-3336-4432-a465-363233376261/media.jpg"
+},
+{
+"lat": "27.289872942192368",
+"lng": "33.76160667488528",
+"title": "Palm Beach Resort Hurghada",
+"iconUrl": "https://static.tildacdn.com/tild6263-3761-4031-a630-396563613363/media.jpg"
+},
+{
+"lat": "46.69955026971162",
+"lng": "36.34886162101218",
+"title": "Grand Family Apartments",
+"iconUrl": "https://static.tildacdn.com/tild3362-6434-4532-b635-386239346439/media.jpg"
+},
+{
+"lat": "36.526928425195536",
+"lng": "32.050898120965975",
+"title": "Diamond Hill Resort & SPA",
+"iconUrl": "https://static.tildacdn.com/tild6266-3836-4538-b433-313430373366/media.jpg"
+},
+{
+"lat": "36.53149894020699",
+"lng": "32.04175421733429",
+"title": "KAILA BEACH HOTEL",
+"iconUrl": "https://static.tildacdn.com/tild6662-3736-4431-b062-653862633730/media.jpg"
+},
+{
+"lat": "36.64880849167383",
+"lng": "31.67707309396868",
+"title": "Litore Resort Hotel & Spa",
+"iconUrl": "https://static.tildacdn.com/tild6235-6335-4637-a138-383532316264/media.jpg"
+},
+{
+"lat": "27.29031980914247",
+"lng": "33.76146203404411",
+"title": "Palm Beach Resort Hurghada",
+"iconUrl": "https://static.tildacdn.com/tild6332-3665-4361-a266-626639303138/media.jpg"
+},
+{
+"lat": "44.96481653330651",
+"lng": "35.25198438479501",
+"title": "Коктебель, ТОСК Приморье",
+"iconUrl": "https://static.tildacdn.com/tild3239-3965-4634-b936-363239326461/media.jpg"
+},
+{
+"lat": "36.71897070381409",
+"lng": "31.544944229858043",
+"title": "Sea World Resort & Spa",
+"iconUrl": "https://static.tildacdn.com/tild6632-3330-4661-b866-633837643861/media.jpg"
+},
+{
+"lat": "36.68949860510207",
+"lng": "30.5709553013172",
+"title": "Rama Beach Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3236-6233-4661-b237-623565666565/media.jpg"
+},
+{
+"lat": "41.639909601476354",
+"lng": "41.61315281289211",
+"title": "Orbi City Hotel",
+"iconUrl": "https://static.tildacdn.com/tild6539-3536-4633-a638-656562373932/media.jpg"
+},
+{
+"lat": "44.044538182791506",
+"lng": "43.096879233156855",
+"title": "Санаторий Родник г. Пятигорск",
+"iconUrl": "https://static.tildacdn.com/tild3163-6164-4662-b636-623036343930/media.jpg"
+},
+{
+"lat": "36.80590603621896",
+"lng": "31.35454659606575",
+"title": "Side Royal Paradise",
+"iconUrl": "https://static.tildacdn.com/tild3330-3137-4165-b838-653463316531/media.jpg"
+},
+{
+"lat": "41.653486959478464",
+"lng": "41.753506606225784",
+"title": "Door2heaven Eco-Hotel and Camping, Batumi, Georgia",
+"iconUrl": "https://static.tildacdn.com/tild3061-3531-4365-a130-323030653064/media.jpg"
+},
+{
+"lat": "59.9308737136233",
+"lng": "30.360323046944156",
+"title": "Hotel Best Western Plus SPb",
+"iconUrl": "https://static.tildacdn.com/tild3463-3961-4435-b030-393531613131/media.jpg"
+},
+{
+"lat": "36.662106087585244",
+"lng": "31.65473108601958",
+"title": "Concordia celes otel",
+"iconUrl": "https://static.tildacdn.com/tild6564-6536-4566-a238-343432373532/media.jpg"
+},
+{
+"lat": "44.6552654980344",
+"lng": "34.404480405525774",
+"title": "Отель «Россия», Алушта",
+"iconUrl": "https://static.tildacdn.com/tild6166-3135-4530-b232-616164303963/media.jpg"
+},
+{
+"lat": "36.861508453752926",
+"lng": "30.993930140919648",
+"title": "Sirene Belek Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3731-3064-4666-b037-633238636363/media.jpg"
+},
+{
+"lat": "37.833716487131746",
+"lng": "27.242763570275613",
+"title": "Otium Sealight Beach Resort",
+"iconUrl": "https://static.tildacdn.com/tild3066-6665-4035-a135-383338663963/media.jpg"
+},
+{
+"lat": "36.78624264574181",
+"lng": "31.39286343117623",
+"title": "Sun City Hotel Side",
+"iconUrl": "https://static.tildacdn.com/tild3130-3638-4838-b266-346637366238/media.jpg"
+},
+{
+"lat": "36.6112602876537",
+"lng": "31.777970228072032",
+"title": "Green Fuğla Beach Hotel Alanya",
+"iconUrl": "https://static.tildacdn.com/tild6338-3166-4364-b232-336137326339/media.jpg"
+},
+{
+"lat": "36.63442040695274",
+"lng": "31.75246453904529",
+"title": "Pegasos Royal Resort Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3231-3065-4634-b237-333133313034/media.jpg"
+},
+{
+"lat": "44.306411531822484",
+"lng": "9.210371041277533",
+"title": "A Belmond Hotel, Portofino",
+"iconUrl": "https://static.tildacdn.com/tild3739-3861-4639-b731-363332373835/media.jpg"
+},
+{
+"lat": "52.37520469181196",
+"lng": "4.900242879346744",
+"title": "The globe hotel",
+"iconUrl": "https://static.tildacdn.com/tild6139-6331-4236-a161-316134326366/media.jpg"
+},
+{
+"lat": "47.850516778293006",
+"lng": "0.6565334565823979",
+"title": "LE MOULIN",
+"iconUrl": "https://static.tildacdn.com/tild3266-3939-4239-a232-356338336461/media.jpg"
+},
+{
+"lat": "38.14285754175489",
+"lng": "15.152513016543747",
+"title": "Hotel Il Gabbiano",
+"iconUrl": "https://static.tildacdn.com/tild6138-6561-4431-a564-346164343436/media.jpg"
+},
+{
+"lat": "51.784931312923646",
+"lng": "-5.098767689356157",
+"title": "Druidstone Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3533-3964-4432-a136-356466353431/media.jpg"
+},
+{
+"lat": "37.602866973547194",
+"lng": "-8.730657701254726",
+"title": "Zmonte das Garças - Zmar 1608",
+"iconUrl": "https://static.tildacdn.com/tild3833-6432-4666-b766-613161623934/media.jpg"
+},
+{
+"lat": "46.78986087914106",
+"lng": "12.783660305635287",
+"title": "Dolomitenhütte",
+"iconUrl": "https://static.tildacdn.com/tild3964-3939-4136-b531-613937383733/media.jpg"
+},
+{
+"lat": "-37.43792620148534",
+"lng": "142.64699731599072",
+"title": "Mount William Station",
+"iconUrl": "https://static.tildacdn.com/tild3066-3362-4263-a366-643461643063/media.jpg"
+},
+{
+"lat": "43.55872302605332",
+"lng": "4.084347853476304",
+"title": "Mercure La Grande Motte Port",
+"iconUrl": "https://static.tildacdn.com/tild6261-3765-4762-b138-613638306435/media.jpg"
+},
+{
+"lat": "21.139603255390238",
+"lng": "79.11980986421597",
+"title": "Regenta Central Hotel and Conventional Centre",
+"iconUrl": "https://static.tildacdn.com/tild3035-3239-4161-b963-383733363131/media.jpg"
+},
+{
+"lat": "49.35050035390243",
+"lng": "20.168909412426498",
+"title": "Rzepiska Hills",
+"iconUrl": "https://static.tildacdn.com/tild6634-3865-4566-b365-663038313437/media.jpg"
+},
+{
+"lat": "43.55872302605332",
+"lng": "4.084347853476304",
+"title": "Mercure La Grande Motte Port",
+"iconUrl": "https://static.tildacdn.com/tild3532-3737-4230-b736-316632366431/media.jpg"
+},
+{
+"lat": "46.82643239115235",
+"lng": "4.724278882322158",
+"title": "Les Maisons De Chamirey",
+"iconUrl": "https://static.tildacdn.com/tild3662-6264-4261-a566-643834616264/media.jpg"
+},
+{
+"lat": "25.578678209715957",
+"lng": "55.56465195198184",
+"title": "Vida Beach Resort",
+"iconUrl": "https://static.tildacdn.com/tild6665-3965-4034-a265-366531643164/media.jpg"
+},
+{
+"lat": "25.191181653243437",
+"lng": "55.290283767912804",
+"title": "Radisson Blu Hotel Canal View",
+"iconUrl": "https://static.tildacdn.com/tild3639-3831-4662-b439-623731636361/media.jpg"
+},
+{
+"lat": "36.35463566127069",
+"lng": "25.471747400584675",
+"title": "Villa Kasteli",
+"iconUrl": "https://static.tildacdn.com/tild6638-3838-4833-a638-313138316264/media.jpg"
+},
+{
+"lat": "19.101794575364952",
+"lng": "72.8262122590208",
+"title": "JW Marriott Mumbai Juhu",
+"iconUrl": "https://static.tildacdn.com/tild6362-6366-4339-b131-633633663531/media.jpg"
+},
+{
+"lat": "-45.05973269469859",
+"lng": "168.5881259813597",
+"title": "Matakauri Lodge",
+"iconUrl": "https://static.tildacdn.com/tild3530-3035-4537-b362-356537646137/media.jpg"
+},
+{
+"lat": "49.31376804504185",
+"lng": "-121.7700328415578",
+"title": "The Lodge on Harrison Lake",
+"iconUrl": "https://static.tildacdn.com/tild3236-3564-4266-a565-636239303336/media.jpg"
+},
+{
+"lat": "24.578606186246102",
+"lng": "73.68017736301911",
+"title": "Hotel Amet Haveli",
+"iconUrl": "https://static.tildacdn.com/tild3538-3035-4866-a464-323536363364/media.jpg"
+},
+{
+"lat": "35.62705727623295",
+"lng": "139.88746328395996",
+"title": "HOTEL MIRACOSTA",
+"iconUrl": "https://static.tildacdn.com/tild3562-6263-4633-a665-346539373731/media.jpg"
+},
+{
+"lat": "40.76636636307343",
+"lng": "-73.97846233063332",
+"title": "JW Marriott Essex House",
+"iconUrl": "https://static.tildacdn.com/tild3366-6265-4239-a230-623035343036/media.jpg"
+},
+{
+"lat": "40.651439319167146",
+"lng": "14.612948912279835",
+"title": "Caruso, A Belmond Hotel, Amalfi Coast",
+"iconUrl": "https://static.tildacdn.com/tild3535-3236-4262-b133-366232626632/media.jpg"
+},
+{
+"lat": "19.13440379119656",
+"lng": "72.90146391205323",
+"title": "Renaissance Marriott Mumbai",
+"iconUrl": "https://static.tildacdn.com/tild6461-3361-4139-a530-616336323730/media.jpg"
+},
+{
+"lat": "18.227180820818273",
+"lng": "73.60146890287028",
+"title": "Bottle Palm Resort",
+"iconUrl": "https://static.tildacdn.com/tild3330-3436-4463-b839-303563326566/media.jpg"
+},
+{
+"lat": "-13.2699900906569",
+"lng": "-72.2182900148576",
+"title": "Skylodge Adventure Suites",
+"iconUrl": "https://static.tildacdn.com/tild3037-3663-4938-b161-396535343934/media.jpg"
+},
+{
+"lat": "28.35432036587913",
+"lng": "-81.60669407054371",
+"title": "Animal Kingdom Lodge",
+"iconUrl": "https://static.tildacdn.com/tild6364-3132-4732-b838-656637613962/media.jpg"
+},
+{
+"lat": "-54.8418518022768",
+"lng": "-68.37262228898796",
+"title": "Los Cauquenes Resort & Spa",
+"iconUrl": "https://static.tildacdn.com/tild6632-3166-4964-b536-346263333434/media.jpg"
+},
+{
+"lat": "42.36017744266016",
+"lng": "-71.05165149838692",
+"title": "Marriott Long Wharf",
+"iconUrl": "https://static.tildacdn.com/tild6632-3166-4964-b536-346263333434/media.jpg"
+},
+{
+"lat": "45.09973855461912",
+"lng": "-79.58741778020526",
+"title": "THE HENNY || Muskoka Beach Front Cottage",
+"iconUrl": "https://static.tildacdn.com/tild3635-3135-4934-b163-653236646366/media.jpg"
+},
+{
+"lat": "42.334516520552924",
+"lng": "-83.04847271567974",
+"title": "Shinola Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3933-3233-4438-b037-663933386330/media.jpg"
+},
+{
+"lat": "21.791621282848958",
+"lng": "-72.1923422746025",
+"title": "Alexandra Resort - Turks and Caicos Collection",
+"iconUrl": "https://static.tildacdn.com/tild6362-3431-4466-b462-346339326533/media.jpg"
+},
+{
+"lat": "48.66465756142334",
+"lng": "2.3527097231738936",
+"title": "Château de Morsang",
+"iconUrl": "https://static.tildacdn.com/tild3830-6533-4533-b765-373730366331/media.jpg"
+},
+{
+"lat": "51.67582161437544",
+"lng": "-1.4963490587728265",
+"title": "Mollie's Motel & Diner",
+"iconUrl": "https://static.tildacdn.com/tild6232-3630-4264-b234-623937373963/media.jpg"
+},
+{
+"lat": "42.13150196693804",
+"lng": "3.1217232047978505",
+"title": "Hostal Spa Empúries",
+"iconUrl": "https://static.tildacdn.com/tild3938-3565-4161-b266-646636623664/media.jpg"
+},
+{
+"lat": "-25.925873657949026",
+"lng": "27.606950300965384",
+"title": "Sima Kade Retreat",
+"iconUrl": "https://static.tildacdn.com/tild3261-3862-4136-a536-373961353163/media.jpg"
+},
+{
+"lat": "51.51510705137923",
+"lng": "-0.06880409778751692",
+"title": "The Gate hotel London",
+"iconUrl": "https://static.tildacdn.com/tild3439-3261-4362-a338-353336343131/media.jpg"
+},
+{
+"lat": "41.682054373992855",
+"lng": "9.375030071678397",
+"title": "Hôtel Le Pinarello",
+"iconUrl": "https://static.tildacdn.com/tild3663-3137-4362-a339-333735363134/media.jpg"
+},
+{
+"lat": "53.752500012220914",
+"lng": "-3.037091945233582",
+"title": "The Glendower Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3537-6666-4238-b963-643437393763/media.jpg"
+},
+{
+"lat": "31.227888816826557",
+"lng": "121.4954308404809",
+"title": "Hotel Indigo Shanghai on the Bund",
+"iconUrl": "https://static.tildacdn.com/tild3461-6330-4663-b362-613034313361/media.jpg"
+},
+{
+"lat": "51.506332498352876",
+"lng": "-0.07304058946014125",
+"title": "The Tower Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3966-6164-4161-b938-333432393833/media.jpg"
+},
+{
+"lat": "37.906694132968624",
+"lng": "27.270315069258732",
+"title": "Tusan Beach Resort",
+"iconUrl": "https://static.tildacdn.com/tild6137-3664-4339-a436-326165373564/media.jpg"
+},
+{
+"lat": "51.36491668289286",
+"lng": "-2.9649134755920183",
+"title": "South Sands Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3035-3134-4232-b439-373033623366/media.jpg"
+},
+{
+"lat": "46.67801054726163",
+"lng": "11.165358532134023",
+"title": "Vinea - Suites & Apartments",
+"iconUrl": "https://static.tildacdn.com/tild3939-3666-4564-a665-373961636137/media.jpg"
+},
+{
+"lat": "51.67705432611163",
+"lng": "-0.4369054597268385",
+"title": "The Grove Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3634-3634-4066-a536-376632326566/media.jpg"
+},
+{
+"lat": "51.912901389023084",
+"lng": "4.482759460270557",
+"title": "Inntel Hotels Rotterdam Centre",
+"iconUrl": "https://static.tildacdn.com/tild3462-3661-4033-b864-326463373334/media.jpg"
+},
+{
+"lat": "38.9869334401464",
+"lng": "-76.93562337066676",
+"title": "The Hotel at the University of Maryland",
+"iconUrl": "https://static.tildacdn.com/tild3031-6130-4932-b438-353634666633/media.jpg"
+},
+{
+"lat": "40.64570753881511",
+"lng": "-73.77761132830837",
+"title": "TWA Hotel",
+"iconUrl": "https://static.tildacdn.com/tild3036-3966-4237-a234-343334613036/media.jpg"
+},
+{
+"lat": "58.86838100857552",
+"lng": "9.412748887991848",
+"title": "Kragerø Hotell",
+"iconUrl": "https://static.tildacdn.com/tild3433-6435-4261-a366-663362656335/media.jpg"
+},
+{
+"lat": "-6.249891381110392",
+"lng": "-35.039385367313415",
+"title": "Filha da Lua - Eco Lodge",
+"iconUrl": "https://static.tildacdn.com/tild6534-6261-4835-b931-373934353963/media.jpg"
+},
+{
+"lat": "46.24820224698385",
+"lng": "8.70407129955813",
+"title": "Boutique-Hotel Casa Martinelli",
+"iconUrl": "https://static.tildacdn.com/tild6232-6532-4033-b834-656438346361/media.jpg"
+},
+{
+"lat": "40.72083097933076",
+"lng": "-73.95881394549716",
+"title": "The Hoxton, Williamsburg",
+"iconUrl": "https://static.tildacdn.com/tild3134-3634-4365-a139-656335666235/media.jpg"
+},
+{
+"lat": "46.52040481447044",
+"lng": "6.636858297282239",
+"title": "Swiss Wine Hotel & Bar by Fassbind",
+"iconUrl": "https://static.tildacdn.com/tild3530-3630-4063-b337-373336363535/media.jpg"
+},
+{
+"lat": "18.92201574189207",
+"lng": "102.44798084255994",
+"title": "Sisombat Plaza Hotel",
+"iconUrl": "https://static.tildacdn.com/tild6239-6566-4631-b063-353161633666/media.jpg"
+},
+{
+"lat": "48.51843886083147",
+"lng": "9.059167466446388",
+"title": "Hotel Domizil in Tübingen",
+"iconUrl": "https://static.tildacdn.com/tild6135-6666-4633-a362-363731643137/media.jpg"
+},
+{
+"lat": "51.68774247443837",
+"lng": "5.778447260265632",
+"title": "Fletcher Wellness-Hotel Brabant-Mill",
+"iconUrl": "https://static.tildacdn.com/tild3562-3432-4861-a265-666665376239/media.jpg"
+}
   ]
 }
